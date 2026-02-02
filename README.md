@@ -22,7 +22,10 @@ I apply data science techniques, machine learning, and causal inference methods 
 
 ## 📊 GitHub Stats
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-raphael&show_icons=true&theme=default)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=antonio-raphael&show_icons=true&hide_title=true&count_private=true"
+  alt="GitHub stats"
+/>
 
 ---
 
