@@ -1,6 +1,6 @@
 # Hi there! I'm Antonio Raphael
 
-I am currently a Masters students in the Data and Economics for Public Policy program at École Polytechnique. As well as a Research Assistant at the Centre de recherche en économie et statistique (CREST) working to clean education and family data for a study on the effect of perceptions of peer effort on educational outcomes using Norwegian education and family data
+I am currently a Masters students in the Data and Economics for Public Policy program at École Polytechnique. As well as a Research Assistant at the Centre de recherche en économie et statistique (CREST) working to clean education and family data for a study on the effect of perceptions of peer effort on educational outcomes using Norwegian education and family data.
 
 Prior to that, I was a research programmer conducting data-based program evaluation at Social Policy Research Associates, and even before that, I completed my bachelors at the Univerisity of California, Los Angeles where I studied economics, focusing on econometrics.
 
