@@ -1,4 +1,4 @@
-# Hi there! I'm Antonio Raphael
+# Hi there! I'm Antonio
 
 I am currently a Masters students in the Data and Economics for Public Policy program at École Polytechnique. As well as a Research Assistant at the Centre de recherche en économie et statistique (CREST) working to clean education and family data for a study on the effect of perceptions of peer effort on educational outcomes using Norwegian education and family data.
 
@@ -17,15 +17,6 @@ I apply data science techniques, machine learning, and causal inference methods 
 ![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=python&logoColor=white)
 ![Econometrics](https://img.shields.io/badge/Econometrics-lightgrey?style=flat)
 ![Causal%20Inference](https://img.shields.io/badge/Causal%20Inference-green?style=flat)
-
----
-
-## 📊 GitHub Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=antonio-raphael&show_icons=true&hide_title=true&count_private=true"
-  alt="GitHub stats"
-/>
 
 ---
 
