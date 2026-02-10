@@ -2,7 +2,7 @@
 
 I am currently a Masters students in the Data and Economics for Public Policy program at École Polytechnique. As well as a Research Assistant at the Centre de recherche en économie et statistique (CREST) working to clean education and family data for a study on the effect of perceptions of peer effort on educational outcomes using Norwegian education and family data.
 
-Prior to that, I was a research programmer conducting data-based program evaluation at Social Policy Research Associates, and even before that, I completed my bachelors at the Univerisity of California, Los Angeles where I studied economics, focusing on econometrics.
+Prior to that, I was a research programmer conducting data-based program evaluation at Social Policy Research Associates, and even before that, I completed my bachelors at the Univerisity of California, Los Angeles where I studied economics, focusing on econometric methods.
 
 I apply data science techniques, machine learning, and causal inference methods to answer policy and research questions. I build reproducible workflows in **R** and **Python**, with strong interests in **econometrics**, **machine learning**, and **causal inference**. My interest and research areas are Labor Economics, Public Health, Workforce Development, Crime and Criminal Justice, Education, and National Defense.
 
