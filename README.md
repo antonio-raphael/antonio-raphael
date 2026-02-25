@@ -24,9 +24,9 @@ I apply data science techniques, machine learning, and causal inference methods 
 
 ### Walkenhorst-Scraping  
 Web scraping + data analysis on pricing disparities  
-https://github.com/antonio-raphael/Walkenhorst-Scraping  
+https://github.com/Walkenhorst-Scraping/Walkenhorst-Scraping
 
-This project was completed as part of a Telecom-Paris course. It combines PDF and web scraping (Python & R), data cleaning, fuzzy matching, and statistical analysis to quantify pricing differences between inmate commissary prices and retail prices using regression modeling. It demonstrates real-world scraping, reproducible data pipelines, and applied econometric testing to demonstrate the monopoly power of a firm in a captive market.
+This project was completed as part of a Telecom-Paris course. It combines PDF and web scraping (Python & R), data cleaning, fuzzy matching, and statistical analysis to quantify pricing differences between inmate commissary prices and retail prices using regression modeling. It demonstrates real-world scraping, reproducible data pipelines, and applied econometric testing to demonstrate the monopoly power of a firm in a captive market. This reflects the work of myself and several of my classmates working collaboratively to complete an economic research project.
 
 ---
 
