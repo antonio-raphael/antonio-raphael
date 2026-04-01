@@ -20,7 +20,7 @@ I apply data science techniques, machine learning, and causal inference methods 
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Walkenhorst-Scraping  
 Web scraping + data analysis on pricing disparities  
