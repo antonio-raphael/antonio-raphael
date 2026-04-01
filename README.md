@@ -28,6 +28,12 @@ https://github.com/Walkenhorst-Scraping/Walkenhorst-Scraping
 
 This project was completed as part of a Telecom-Paris course. It combines PDF and web scraping (Python & R), data cleaning, fuzzy matching, and statistical analysis to quantify pricing differences between inmate commissary prices and retail prices using regression modeling. It demonstrates real-world scraping, reproducible data pipelines, and applied econometric testing to demonstrate the monopoly power of a firm in a captive market. This reflects the work of myself and several of my classmates working collaboratively to complete an economic research project.
 
+### Predicting Air Pollution
+Applied ML to predict daily air pollution in Ile-de-France communes.
+https://github.com/XCroissants/XCroissants-Predicting-Air-Quality
+
+This project was completed as a part of an Ecole Polytechnique course. The project compiles different publicly available data sources to generate predictions of daily commune air pollution in Ile-de-France. It combines a mix of data cleaning, data engineering, feature engineering, and applied machine learning methods, ultimately producing powerful predictions using a LightGBM model. This reflects the work of myself and several of my classmaates working collaboratively to complete an applied data science project.
+
 ---
 
 ## 📫 Contact
